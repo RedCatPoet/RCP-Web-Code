@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
+    "title": "Red Cat Poetry",
     "base_url": "https://bookworm-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "logo": "",
     "logo_width": "200",
     "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "logo_text": "Red Cat Poetry"
   },
 
   "settings": {
@@ -17,9 +17,9 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Sol De La Cruz",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_description": "Red Cat Poetry"
   },
 
   "params": {
