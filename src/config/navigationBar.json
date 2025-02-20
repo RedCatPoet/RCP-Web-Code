@@ -9,18 +9,22 @@
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Contact Me",
       "url": "/contact"
+    },
+    {
+      "name": "Authors",
+      "url": "/authors"
+    },
+    {
+      "name": "Test",
+      "url": "/test"
     },
     {
       "name": "Pages",
       "url": "",
       "hasChildren": true,
       "children": [
-        {
-          "name": "Authors",
-          "url": "/authors"
-        },
         {
           "name": "Categories",
           "url": "/categories"
